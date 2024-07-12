@@ -1,0 +1,5 @@
+name: "review-badge"
+title: "Review badge"
+description: Creation of badges during PR reviews
+version: 0.1.0
+author: Suguru Matsubara
