@@ -1,5 +1,5 @@
-A simple package to enable espanso to use Badge created during pr-review.
-It works by replacing keywords like `:must` with ![must-badge](https://img.shields.io/badge/review-must-critical.svg).
+A simple package to enable espanso to use Badge created during pr-review.  
+It works by replacing keywords like `:must` with ![must-badge](https://img.shields.io/badge/review-must-critical.svg).  
 More details below.
 
 ### Installation
